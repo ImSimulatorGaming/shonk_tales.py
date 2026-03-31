@@ -1,2 +1,2 @@
 1.1
-https://github.com/ImSimulatorGaming/shonk_tales/releases/download/Game/shonk_tales.exe
+https://github.com/ImSimulatorGaming/shonk_tales/releases/download/v1.0/shonk_tales.exe
