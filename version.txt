@@ -1,2 +1,2 @@
 1.1
-https://github.com/ImSimulatorGaming/shonk_tales.py/releases/download/v1.0/shonk_tales.exe
+https://github.com/ImSimulatorGaming/shonk_tales.py/releases/download/shonk_tales.py/shonk_tales.exe
